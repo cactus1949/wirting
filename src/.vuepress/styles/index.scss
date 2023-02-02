@@ -1,0 +1,12 @@
+// place your custom styles here
+.navbar{
+    .brand{
+        overflow: hidden;
+        height: var(--navbar-height);
+        display: flex;
+        align-items: center;
+        .logo{
+            height: calc(var(--navbar-line-height) + 100px);
+        }
+    }
+}
