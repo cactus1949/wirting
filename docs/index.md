@@ -17,7 +17,7 @@ features: # 可选的
     link: /technology/
     imgUrl: /img/other.png
   - title: 更多
-    details: html(5)/css(3)，前端页面相关技术
+    details: 日常生活记录等
     link: /more/
     imgUrl: /img/ui.png
 
